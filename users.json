@@ -1,0 +1,28 @@
+{
+   "user1" : {
+      "firstname" : "mahesh",
+      "lastname" : "c",
+      "email" : "mahesh@gmail.com",
+      "password" : "password1",
+      "profession" : "vice-president",
+      "id": 1
+   },
+   
+   "user2" : {
+      "firstname" : "ranajith",
+      "lastname" : "n",
+      "email" : "ranajith@gmail.com",
+      "password" : "password1",
+      "profession" : "HR",
+      "id": 2
+   },
+   
+   "user3" : {
+      "firstname" : "arpitha",
+      "lastname" : "s",
+      "email" : "arpith@gmail.com",
+      "password" : "password1",
+      "profession" : "scrum",
+      "id": 3
+   }
+}
